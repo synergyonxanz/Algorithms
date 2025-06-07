@@ -1,0 +1,6 @@
+/.vscode
+/.idea
+*.exe
+*.temp.cpp
+*.prac.cpp
+jspwTest.cpp
